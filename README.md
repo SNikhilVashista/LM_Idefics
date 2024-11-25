@@ -14,8 +14,16 @@ This is a **Streamlit application** that generates text descriptions for uploade
 ### Prerequisites
 - Python 3.9 or higher
 - A GPU with sufficient memory (or CPU for slower performance)
-
+- Dependencies:
+```bash
+      pip install streamlit torch torchvision transformers bitsandbytes gtts
+```
 ### Clone the Repository
 ```bash
 git clone https://github.com/SNikhilVashista/LM_Idefics.git
 cd LM_Idefics
+```
+### run app using streamlit
+```bash
+streamlit run app.py
+```
