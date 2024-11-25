@@ -45,7 +45,7 @@ if uploaded_file:
     st.image(image, caption="Uploaded Image", use_column_width=True)
 
     # Define prompt
-    prompt = "<image>Describe this image."  # Ensure prompt matches the number of images
+    prompt = ""  # Ensure prompt matches the number of images
 
     # Process inputs
     st.write("Generating description...")
