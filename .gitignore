@@ -1,0 +1,15 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.ipynb_checkpoints
+
+# Environment
+.env/
+venv/
+env/
+
+# Streamlit Cache
+.streamlit/
