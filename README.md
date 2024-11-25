@@ -1,4 +1,4 @@
-# Streamlit Idefics2 Image-to-audio App
+# Idefics2 Image-to-audio App
 
 This is a **Streamlit application** that generates text descriptions for uploaded images using the **Idefics2-8b** model and converts the generated text into audio.
 
